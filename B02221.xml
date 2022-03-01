@@ -1,0 +1,489 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memento mori, or, A word in season to the healthful, sick, and dying, fit for this calamitous time. Wherein sicknesses, rage, and deaths, are frequent. In which is discoursed, 1. That the present life of man is short. 2. That death is most certain. 3. That the time and way of death is uncertain. 4. Motives to prepare for death. 5. Some things to be done in preparation for death. 6. Some antidots [sic] against the fears of death. / By a minister of the gospel.</title>
+            <author>Clark, James, 1660-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02221</idno>
+            <idno type="STC">Wing C4464</idno>
+            <idno type="STC">ESTC R171374</idno>
+            <idno type="EEBO-CITATION">52211757</idno>
+            <idno type="OCLC">ocm 52211757</idno>
+            <idno type="VID">175576</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02221)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175576)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2740:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Memento mori, or, A word in season to the healthful, sick, and dying, fit for this calamitous time. Wherein sicknesses, rage, and deaths, are frequent. In which is discoursed, 1. That the present life of man is short. 2. That death is most certain. 3. That the time and way of death is uncertain. 4. Motives to prepare for death. 5. Some things to be done in preparation for death. 6. Some antidots [sic] against the fears of death. / By a minister of the gospel.</title>
+                  <author>Clark, James, 1660-1723.</author>
+               </titleStmt>
+               <extent>18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the Heirs and Successors of Andrew Anderson, Printer to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Published pseudonymously.</note>
+                  <note>A minister of the gospel = James Clark.</note>
+                  <note>Manuscript attribution of authorship on titlepage: Mr Jas: Clark.</note>
+                  <note>Authorship also from other editions in OCLC.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Sermons --  17th century.</term>
+               <term>Death --  Religious aspects --  Christianity --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175576:1"/>
+            <pb facs="tcp:175576:1" rendition="simple:additions"/>
+            <p>
+               <hi>MEMENTO MORI,</hi> OR A word in ſeaſon to the Health<g ref="char:EOLhyphen"/>ful, Sick, and Dying, fit for this calamitous time.</p>
+            <p>Wherein ſickneſſes, rage, and deaths, are frequent.</p>
+            <p>In which is Diſcourſed,
+<list>
+                  <item>1. That the preſent Life of Man is ſhort.</item>
+                  <item>2. That Death is moſt certain.</item>
+                  <item>3. That the time and way of Death is uncertain.</item>
+                  <item>4. Motives to prepare for Death.</item>
+                  <item>5. Some things to be done in preparation for Death.</item>
+                  <item>6. Some Antidots againſt the fears of Death.</item>
+               </list>
+            </p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Heb.</hi> 9.27.</bibl> 
+                  <hi>It is appointed unto men once to die, but after this the judgment.</hi>
+               </p>
+            </q>
+            <q>
+               <l>Chilo per Auſonium,</l>
+               <l>Vive memor mortis, uti memor ſis &amp; ſalutis.</l>
+               <l>Perſius.</l>
+               <l>Vive memor Lethi, fugit hora —</l>
+               <bibl>Auguſt. de Doctr. Chriſtiana.</bibl>
+            </q>
+            <p>He cannot die ill, who liveth well, and it is rare for one to die well, who hath lived ill.</p>
+            <p>By a Miniſter of the Goſpel.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to the Kings moſt Excellent Majeſty, <hi>Anno DOM.</hi> 1699.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:175576:2"/>
+            <head>
+               <hi>The Argument.</hi> The Croſs and the Crown, <hi>Pag.</hi> 18. <hi>Ben</hi> O Death is terrible! <hi>Cord.</hi> 14.</head>
+            <l>
+               <hi>BAr.</hi> — mind thou muſt dye,</l>
+            <l>All men to Nature muſt this Tribute pay;</l>
+            <l>The Crowned King, and ſo the Chained Slave</l>
+            <l>Muſt equally be turn'd into the grave.</l>
+            <l>There's no diſcharge in this Man-ſlaying War,</l>
+            <l>
+               <hi>Memento mori</hi> ev'ry thing doth bear.</l>
+            <l>Tis but a little while of interval</l>
+            <l>Twixt thoſe that on a Tra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ick Scaffold fall,</l>
+            <l>And thoſe the rac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of natures courſe who run;</l>
+            <l>Our life is almoſt gone when ſcarce begun;</l>
+            <l>Like to the Flow'r, that with the Sun doth riſe,</l>
+            <l>And with the Su<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at night fades from our eyes.</l>
+            <l>And though, the King of terrours, death be call'd,</l>
+            <l>Yet by his terrours thou ſhan't be enthral'd.</l>
+            <l>For Chriſt hath overcome death by his death,</l>
+            <l>'Tis but a ſoftly ſleeping out the breath;</l>
+            <l>Which when its gone breaths in the land of joy,</l>
+            <l>Where fears of men or death no more annoy.</l>
+            <closer>
+               <dateline>
+                  <hi>Eaſt-Lothian,</hi>
+                  <date>
+                     <hi>November</hi> 4. 1699.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:175576:2"/>
+            <head>
+               <hi>MEMENTO MORI,</hi> OR Death's Alarum to City and Countrey, to mind and prepare for Death.</head>
+            <p>
+               <hi>JOb</hi> ſaith, <hi>Man that is born of a woman is of few days, and full of trouble; he cometh fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th like a flower and is cut down; he fleeth alſo as a ſhadow, and continueth not,</hi> Job 14.12. In which Pathetick Paſſage, he pointeth at the bre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity of our preſent life, the certainty of our future death, and that all the days of our life till our death, are lyable to be attended with many troubles and ſorrows: the ſerious conſideration whereof ſhould make us concerned to provide Cordials for An<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>idoting the bitterneſs of the miſeries of our life, and excite us earneſtly to exerciſe our ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lves to prepare for death, and with all diligence to ſecu e our hopes of eternal life.</p>
+            <p>Death, Judgment, Heaven and Hell are the four laſt things, yet for the moſt part the laſt and leaſt in our thoughts, which ſpeaks out much ſtupidity, unbelief, and impiety; for if we did really believe (as we ſay we do) that after our natural death, there is life and death of another nature, <hi>viz</hi> Eter<g ref="char:EOLhyphen"/>nal life, and the ſecond death, unto one of which we ſhall be doomed, at the great day of Judgment, we ſhould ſurely be more concerned, than generally we are, to prepare for death, and lay hold on eternal life: Theſe, theſe are matters of great<g ref="char:EOLhyphen"/>eſt conſequence, all our other ſecular concerns, and temporal cares and intereſts, are but trifles and vanities in compariſon hereof: Yet alas! See we not the greateſt part of the infatu<g ref="char:EOLhyphen"/>ated children of men, madly purſuing to graſp and poſſeſs this world, and to take all their preſent pleaſures in time, as if they were to live a ſenſual life for ever, or to be annihilated at death, or that there were neither Heaven nor Hell after it: <hi>Eccl.</hi> 9.3. — <hi>The heart of the ſons of men is full of evil,</hi> and madneſs is in their heart, while they live, and after that they
+<pb n="4" facs="tcp:175576:3"/> go to the dead. But my friend, whoever thou art that reads theſe Lines, ſure I am thou art a Mortal, therefore <hi>Memento mori,</hi> rememember thou muſt die; For <hi>what man is he that liveth, and ſhall not ſee death?</hi> Pſal. 89.48. My deſign is as ſuccinctly as I can, to ſet before thee a few things of death, and preparation for it, which are diſcourſed in theſe 6. Secti<g ref="char:EOLhyphen"/>ons following.</p>
+            <div n="1" type="section">
+               <head>
+                  <hi>SECTION I.</hi> The preſent life of man is ſhort.</head>
+               <p>WE need not be long or prolix in telling you that our life is ſhort, they have been but ſhort while in the World, who are not convinced, from their own obſervation of daily deaths, that mortal man is of few days; therefore to prevent multiplication of words in proving a thing, that rea<g ref="char:EOLhyphen"/>dily none who have their ſenſes about them will deny: All we ſhall offer on this Head, ſhall be to cite and narrate ſome Scripture-paſſages, wherein the brevity of mans life is illu<g ref="char:EOLhyphen"/>ſtrated, by comparing it to ſeveral things that are tranſitory and corruptible in their nature, or of very ſhort duration and continuance. Job 9.6. <hi>My dayes are ſwifter than a weavers ſhuttle,</hi> which flyeth in the twinkling of an eye, from the one end of the Web-Loom to the other. Job 9.25, 26. <hi>My dayes are ſwifter than a poſt, they paſs away as the ſwift ſhips, and as the eagle that haſteth to the prey;</hi> all which are moſt ſwift and vio<g ref="char:EOLhyphen"/>lent in their motions. Pſal. 90.9. <hi>We ſpend our years as a tale that is told,</hi> which conſiſteth in a few vaniſhing idle words. Job 7.7. <hi>My life is wind, that poſteth by us on ſwifteſt wings, in a moment of time.</hi> Jam. 4.14. — <hi>For what is your life? It is even a vapour that appears for a little time, and then vaniſheth away.</hi> Pſal. 144.4. <hi>Man is like to vanity, his days are as a ſha<g ref="char:EOLhyphen"/>dow that paſſeth away;</hi> either as the ſhadow of a cloud carri<g ref="char:EOLhyphen"/>ed with a violent wind, paſſeth our view in an inſtant, or as the ſhadow of the Sun on a Dial, that quickly declineth, till ſet from our Horizon. 1 Pet. 1.24. <hi>All fleſh is as graſs, and all
+<pb n="5" facs="tcp:175576:3"/> the glory of man as the flower of the graſs,</hi> &amp;c. Mans life is as the graſs, lyable to a thouſand accidents, to wither either by the ſcorching beams of the Sun, or a blaſting wind, or to be ſoon cut down, or trampled under the foot of man, or beaſts: And as in a pleaſant Meadow there are many ſorts of graſs or flowers, of various forms, figures and colours, white, yellow, red, blue, <hi>&amp;c.</hi> Which by the ſame fate fall together before the ſharp Syth; ſo men of all qualities, Complexions and ſta<g ref="char:EOLhyphen"/>tures, are promiſcuouſly alike ſubject to deaths deſtructions. Job 34.18, 19. <hi>God accepteth not the perſons of princes, nor re<g ref="char:EOLhyphen"/>gardeth the rich more than the poor, in a moment ſhall they die.</hi> Job 21.13. <hi>In a moment they go down to the grave, i. e.</hi> in a very ſhort ſpace of time doth their breath evaporate and evaniſh. Pſal. 39.5. <hi>Behold thou haſt made my days as an hand-breadth, and mine age is as nothing before thee; verily every man at his beſt e<g ref="char:EOLhyphen"/>ſtate is altogether vanity:</hi> After this ſimilitude of our vain frail life to nothing and vanity, nothing more needs be ſaid to ex<g ref="char:EOLhyphen"/>preſs the brevity of it; and even they who by reaſon of ſtrength, reach the length of threeſcore years and ten, or fourſcore, yet their ſtrength is labour and ſorrow, <hi>for it is ſoon cut off, and they flee away,</hi> Pſal. 90.10.</p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>SECTION II.</hi> Death is moſt certain and inevitable.</head>
+               <p>DEath is a debt that all mortals owe to Nature, and muſt be paid; death will admit of no bribe, no bail, no main-prize, their is no poſſible fence or guard againſt his darts and inſtruments of deſtruction, ſayes <hi>Job</hi> 30.23. <hi>I know that thou wilt bring me to death, and to the houſe appointed for all living.</hi> And <hi>Heb.</hi> 9.27. <hi>It is appointed for all once to die,</hi> i. e. there is a ſtated unalterable decree by the Council of Heaven, that all muſt die, which by no means can be repealed or avoided. Pray what can thou plead or pretend as a ground of hope to eſcape, but what will be found vain and unable to help thee. <hi>Pſal.</hi> 89.48. <hi>What man is he that liveth, and ſhall not ſee death? Shall he deliver his ſoul from the hand of the grave?</hi> Eccleſ. 8.8.
+<pb n="6" facs="tcp:175576:4"/> 
+                  <hi>There is no man that hath power in the day of death, and there i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> no diſcharge in that war.</hi> Riches and wealth will not avail the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the day of death, they may rather perhaps bring thee ſooner to thine end; thy vexatious thoughts of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eceſſty of leaving them grating and waſting thy vital ſpi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>its, or there<g ref="char:EOLhyphen"/>by thou mayeſt be expoſed to become a prey to ſome or other, who by ſiniſter ways may compaſs thy death, to ſhare of thy beloved gear and riches: Where is <hi>Craeſus</hi> and <hi>Craſſus?</hi> Where are all the full and opulent poſſeſſors of this worlds goo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s? Hath not death ſpoiled them all, both of their lives and livings? <hi>Job</hi> 21.13. <hi>They ſpend their days in wealth, and in a moment go down to the grave.</hi> Job 34.19, 20. — <hi>Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> regardeth not the rich more than the poor, in a moment ſhall they die.</hi> Worldly power and greatneſs are little things before this great King of terrours, and terrour of Kings. Where ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the mighty Monarchs, Princes and Potentats of this World. Where are the Armed Hoſts of Nations, with their Generals Captains and Commanders? Are not all theſe men of migh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conſumed with worms and corr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ption? They who brought ma<g ref="char:EOLhyphen"/>ny deaths upon others, could not war<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it off themſelves. <hi>Job</hi> 24.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 24. <hi>The mighty are not ſure of their life, they are exalted for a while, but are gone and brought low, they are taken out of the way as all others, and cut off as the tops of the ears of corn. Rev:</hi> 19.18. <hi>The fleſh of Kings, the fleſh of Captains, the fleſh of mighty men, the fleſh of all men both free and bound both ſmall and great,</hi> ſhall be made a feaſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o death and corruption. The So<g ref="char:EOLhyphen"/>phiſts and wiſe men of the world, who by their exquiſite cun<g ref="char:EOLhyphen"/>ning and providence could contrive and plot the ruine of Na<g ref="char:EOLhyphen"/>tions, not one of them could ever yet fall on a politick to ſave themſelves from death: Where the <hi>Achitophels</hi> where the <hi>Matchia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>els,</hi> and all th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> other profound Polititians, who have been admired for their wiſdom ſenſe and eloquence; hath not death out-witted them all, and de-witted them utterly <hi>Pſal.</hi> 49.10. <hi>The wiſe man dieth,</hi> &amp;c. Iſa. 3.1, 2, 3. <hi>Where th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mighty man, and the man of war, the Judge, and the Prophet and the prudent? Where is the honourable man, and the Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nſellou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and the cunning Artificer, and the eloquent Orator?</hi> Are they no all taken away? yea, they are dead and gone. Bodily ſtrength health and vigour, cannot hold out againſt this Conq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ero<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thoſe he cruſheth down as the moth, and maketh to decay a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:175576:4"/> all as the graſs before the Mower. How many healthful and young perſons haſt thou known, who appeared as if they would have run to the outmoſt ſtep of Natures courſe, who yet have been run down by death in the midſt and bloom of their ver<g ref="char:EOLhyphen"/>dant years? <hi>Let not the young man glory in his ſtrength,</hi> for ſome ſays <hi>Job</hi> 36.14. they die in youth. I thought not amiſs on this particular to inſert here a few Lines out of a little Poem, called, An Abſtract of <hi>Eccleſiastes, Sect.</hi> 17.</p>
+               <q>
+                  <l>Boaſt not of youthful years, nor boaſt</l>
+                  <l>Of health of body, nor of might;</l>
+                  <l>A ſhort whiles ſickneſs may thee poſt</l>
+                  <l>From time, to an eternal night.</l>
+                  <l>Mind thou muſt die, but when, or where,</l>
+                  <l>Thou canneſt not Divine or tell;</l>
+                  <l>The Lambs-skin often at the Fair</l>
+                  <l>You'l find as ſoon as the Sheeps to ſell.</l>
+               </q>
+               <p>Neither will the charms of beauty, nor the fineſt amiable com<g ref="char:EOLhyphen"/>plexions, move death to pity or ſpare, he is ſo fond of his own Gaſtly Countenance, that he will have all look like him<g ref="char:EOLhyphen"/>ſelf: Loveable beauty, I ſay, the common charm of Mortals, will not at all take with this Maſter of Mortals, for he'll make <hi>their beauty to conſume away like a moth, Pſal.</hi> 39.11. Yea, <hi>their beauty ſhall conſume in the grave,</hi> Pſal. 49.14. What, what then will be a ſhield againſt the darts of death? If none of theſe can be Armour of Proof? will not piety and vertue be a fence and ſanctuary? No, no, <hi>for all fleſh is graſs!</hi> Even grace and godlineſs that may make immortal after time, will not ſave any mortal from temporal death. Iſa. 57.1. <hi>The righteous pe<g ref="char:EOLhyphen"/>riſheth, and merciful men are taken away. Heb.</hi> 11.13. The Apoſtle ſpeaking of <hi>Abel, Enoch, Noah, Abraham, Moſes,</hi> and other holy men of God, ſays of them, <hi>Theſe all died in faith:</hi> Lay thine account then who ever thou art, that ſoon or ſyne thou muſt die.</p>
+            </div>
+            <div n="3" type="section">
+               <pb n="8" facs="tcp:175576:5"/>
+               <head>
+                  <hi>SECTION III.</hi> The time and way of death is uncertain.</head>
+               <p>MOrtals are obnoxious to innumerable miſchievous miſ<g ref="char:EOLhyphen"/>fortunes, fatal accidents, and untimely deaths, ſays <hi>Eliphaz</hi> J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b 5.7. <hi>Man is born unto trouble, as the ſparks flee upward.</hi> No man knoweth what ſcene or ſhare of temptations and tribulations may betide him ere he go off the ſtage of time; but all having ſinned, all may dread to partake of the bitter fruits of ſin: Every day we may behold ſome ſpectacles of miſery; every day brings news of ſome body or other that is viſited with diſaſters and d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtreſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s. To prevent tedious enlargement on this Head, take a ſhort Synopſis of ſome of the common woes and miſeries of the world, in a few Verſes of a little Shedull, called, <hi>The Croſs and the Crown.</hi>
+               </p>
+               <q>
+                  <l>This World's a Maſs of Woes, a Maze of Tears,</l>
+                  <l>Amazing Mortal Wights with Panick fears;</l>
+                  <l>Our life's a Tragedie, comes in with cryes,</l>
+                  <l>Made up of griefs, goes out with Elegies:</l>
+                  <l>Each Mortal acts his part, in ev'ry age,</l>
+                  <l>Each Scene new ſorrows brings upon the Stage;</l>
+                  <l>Some cover'd with a Sable Vail we ſee,</l>
+                  <l>An Embleme of a late Mortalitie;</l>
+                  <l>Some crying (clapping hands) Ah! cruel Fate,</l>
+                  <l>I'm raviſh'd of my Darling and my Mate.</l>
+                  <l>Some change their health to ſickneſs, eaſe for pain,</l>
+                  <l>Some in a moment all their glory ſta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n;</l>
+                  <l>Some who were Crown'd with Fortunes braveſt Bay,</l>
+                  <l>Have found their Garland wither ſoon away:</l>
+                  <l>Some who like <hi>Craeſus,</hi> Treaſures had in ſtore,</l>
+                  <l>Like <hi>Job,</hi> or <hi>Irus,</hi> poverty deplore:</l>
+                  <l>Some who had all they wiſh'd, wiſh for their Urne,</l>
+                  <l>And that their Fun'ral Flames may quickly burn.</l>
+                  <l>Yea, Common-wealths, and Monarchies we ſee,</l>
+                  <l>That ſometime flouriſh'd, are a nullitie</l>
+                  <l>Our Text is prov'd, this World's a maſs of woes,</l>
+                  <l>Each day a doleful Comment<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry ſhows.</l>
+               </q>
+               <pb n="9" facs="tcp:175576:5"/>
+               <p>But that we may come cloſſer to the main purpoſe of this Section, <hi>viz.</hi> that the time and way of death is uncertain, we will narrate an H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtorical account of ſeveral perſons who have been ſoon and ſuddenly ſnatch'd out of the world, and ſome of them come to very tragical ends, by ſtrange and unexpected ways and means: It would be an endleſs work to ſpecifie all, even the ordinary diſeaſes, whereby people are in ieopardy daily of having the threed of their life cut; neither is it poſ<g ref="char:EOLhyphen"/>ſible to gueſs at, or foretell all the fatal accidents whereby our death may be compaſſed, for our life and breath is at the un<g ref="char:EOLhyphen"/>avoidable reverence and diſpoſal of the abſolute Lord of life and death, who hath many Arrows in his Quiver, and variety of inſtruments of death, there be <hi>mille nocendi artes, &amp; mille pericula mortis,</hi> which ſhould make us who are certain we muſt die, and uncertain where or when, to ſtudy to be always rea<g ref="char:EOLhyphen"/>dy and prepared, <hi>Matth.</hi> 24.22.24. and <hi>Matth.</hi> 25.13. <hi>Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh,</hi> therefore be ye alſo ready, for in ſuch an hour as ye think not, the Son of man cometh; <hi>Prov.</hi> 27.1. com<g ref="char:EOLhyphen"/>pared with <hi>Jam.</hi> 4 14. <hi>Boaſt not thy ſelf of to morrow, for thou knoweſt not what a day may bring forth, and ye know not what ſhall be on the morrow, for what is your life? it is even a vapour that appeareth a little time, and then vaniſheth away.</hi> The in<g ref="char:EOLhyphen"/>conſiderate r ch man in the Goſpel, fondly promiſed to him<g ref="char:EOLhyphen"/>ſelf many years, wherein he expected to poſſeſs his great wealth, and to take his caſe, eat, drink, and be merry, when behold in a moment a damping meſſage came unto him, which no doubt did ſtrike him into a Pannick fear, and Fever of per<g ref="char:EOLhyphen"/>plexities, but God ſaid to him, <hi>Thou fool, this night thy ſoul ſhal be required of thee, then whoſe ſhall thoſe things be which thou haſt provided?</hi> Luk. 12.16. to 22. Now we come according to our purpoſe, to narrate ſome Tragick inſtances of ſtrange and ſud<g ref="char:EOLhyphen"/>den deaths.</p>
+               <p>
+                  <hi>Hylas</hi> Sailing to <hi>Colchos,</hi> while he was drawing a Bucket of Sea-water, with the weight thereof was pulled over Board, and drowned.</p>
+               <p>
+                  <hi>Fortia Attendulus,</hi> while he was endeavouring to ſave his Ser<g ref="char:EOLhyphen"/>vant, in hazard of drowning in the River <hi>Aternus</hi> in <hi>Italy,</hi> did himſelf periſh in the Water.</p>
+               <p>
+                  <hi>Maxentius</hi> the Emperor, in his flight from <hi>Conſtantine</hi> the
+<pb n="10" facs="tcp:175576:6"/> Great, paſſing the Bridge called <hi>Ponte Molle,</hi> within two Miles of <hi>Rome,</hi> the ſaid Bridge ſuddenly falling into the River, he and all that were with him preſently periſhed.</p>
+               <p>
+                  <hi>Remulus Anaſtaſius</hi> the Emperor, and <hi>Aurelianus Carus</hi> the Emperor, and many with him, were in an inſtant deſtroyed and ſuffocate with Thunder and Lightnings.</p>
+               <p>
+                  <hi>Neocles</hi> the Son of <hi>Themiſtocles</hi> died with the bite of an Horſe.</p>
+               <p>
+                  <hi>Seleucus Callenicus,</hi> and <hi>Theodoſius</hi> the ſecond Emperors, both died by a fall off their Horſes.</p>
+               <p>
+                  <hi>Fulco</hi> the Earl of <hi>Angiers</hi> was brained dead with a ſtroak of his Horſe, lifting up, and bending back his head.</p>
+               <p>
+                  <hi>Heſperia</hi> a Maid died of the bite of a Serpent, and <hi>Diogenes</hi> the Philoſopher of the bite of a Dog.</p>
+               <p>
+                  <hi>Hatto</hi> the Archbiſhop of <hi>Mentz</hi> was devoured of Mice.</p>
+               <p>
+                  <hi>Maximinus</hi> the Emperor, and <hi>Honorificus</hi> the King of the <hi>Vandals,</hi> were both conſumed with ſwarms of Lice.</p>
+               <p>
+                  <hi>Herod</hi> arrayed in his Royal Apparel, ſitting upon his Throne, by the immediat hand of God was eaten of Worms.</p>
+               <p>
+                  <hi>Alcibiades</hi> was burnt alive in his Chamber.</p>
+               <p>
+                  <hi>Niolas</hi> being keen at hunting, earneſtly following the chaſe, fell accidentally into a Coal-pit, where he died miſerably.</p>
+               <p>
+                  <hi>Philoſtratus</hi> and <hi>Elpenor</hi> falling down a pair of Stairs in their drunkenneſs, both died of the fall.</p>
+               <p>
+                  <hi>Terentius Corax,</hi> while Writing a Miſſive Letter, ſuddenly died: So did <hi>C. Julius</hi> a Phyſician, in the time he was putting his Spectacles on his Noſe: And <hi>Flavius Veſpaſianus,</hi> while hearing Forreign Ambaſſadors: And L. <hi>Durius</hi> a Phyſi<g ref="char:EOLhyphen"/>cian, while drinking a Glaſs of Wine.</p>
+               <p>
+                  <hi>Ap. Saufetus</hi> in glu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting down an Egg, died immediatly.</p>
+               <p>
+                  <hi>Cueus Carbo,</hi> while eaſing Nature, died on the place, ſo it is ſtoried of <hi>Arrius</hi> that Arch-heretick in the Primitive times.</p>
+               <p>
+                  <hi>Petr. Calceanus</hi> died among the Barbers hands while a trim<g ref="char:EOLhyphen"/>ing.</p>
+               <p>
+                  <hi>Philippides</hi> the Comedian, <hi>Diagoras</hi> the Rhodian, and <hi>Ju<g ref="char:EOLhyphen"/>ventus Thalua,</hi> all died of an exceſs of joy.</p>
+               <p>
+                  <hi>Philiſtion</hi> the Poet died in a great kink and fit of laugh<g ref="char:EOLhyphen"/>ter.</p>
+               <p>
+                  <hi>Philip</hi> the Son of <hi>Demetrius</hi> the ſecond King of <hi>Macedon,</hi> and <hi>Charles</hi> the groſs Emperor, both died of an exceſs of grief and ſorrow.</p>
+               <pb n="11" facs="tcp:175576:6"/>
+               <p>
+                  <hi>Q. Heterius</hi> a Roman Knight, and Cornel <hi>Gallie</hi> a Senator, both died in the very act of Venery.</p>
+               <p>
+                  <hi>Anacreon</hi> died by a little ſtone of a Raiſine that ſtuck in his throat.</p>
+               <p>
+                  <hi>Henry</hi> the Son of <hi>Alphonſus</hi> the 8. King of <hi>Caſtile,</hi> while play<g ref="char:EOLhyphen"/>ing with his Comrads, was ſtruck dead by a Slate falling off a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouſe upon his head.</p>
+               <p>
+                  <hi>John</hi> the Duke of <hi>Britainie,</hi> and ſeveral others with him, were c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſhed to death by the fall of a Wall.</p>
+               <p>
+                  <hi>Alexander</hi> the Emperor, Son of <hi>Baſilus,</hi> and <hi>Atti</hi> King of <hi>Pannonia,</hi> both died of a great bleeding at the noſe.</p>
+               <p>Old <hi>Aſchylus</hi> a Poet in <hi>Sicilie,</hi> beeking himſelf at the Sun, under the open air, was ſuddenly ſlain, by the fall of a Tor<g ref="char:EOLhyphen"/>toiſe on his bald Pate, which an Eagle taking, it ſeems, for a ſtone, let the Tortoiſe fall on it, that thereby breaking the ſhell, ſhe might get the meat.</p>
+               <p>
+                  <hi>Themigenes</hi> died of vomiting after his ſupper.</p>
+               <p>
+                  <hi>Antoninus Pius</hi> died ſleeping.</p>
+               <p>
+                  <hi>Otto</hi> the third Emperor died by the infecton of a pair of poiſoned Gloves.</p>
+               <p>
+                  <hi>Frider.</hi> 1. <hi>Barbaroſſa</hi> Emperor, was drowned ſwiming.</p>
+               <p>
+                  <hi>Henry</hi> the 3. Emperor, taking too great a mouthful of bread, died eating.</p>
+               <p>
+                  <hi>Druſius Pompeius, Claudius Ceſars</hi> Son, playing with a piece Pear, and throwing it up, to intercept or kepp it in his mouth, it fell ſo far into his throat, that it choaked him immediatly.</p>
+               <p>
+                  <hi>Tarqu. Priſcus,</hi> died with a Fiſh Bone ſticking croſs in his throat.</p>
+               <p>
+                  <hi>Fabius</hi> a Roman Senator, was choaked with a Hair in Milk that he was drinking.</p>
+               <p>O what a ſmall matter will do frail mans turn, to turn him out of time into eternity, when Gods decreed time is come. Now in conſideration of theſe inſtances, and the innumerable hazards of death that we are in every moment, and that by in<g ref="char:EOLhyphen"/>numerable diverſe means and accidents, O let us fear always, and prepare and provide againſt all dangers occurrent.</p>
+               <p>I thought not amiſs to inſert here, that in the very <hi>interim</hi> or mean time that I was Writing thir Paſſages of ſome ſudden deaths, I was called for to ſee a young Woman, but about a
+<pb n="12" facs="tcp:175576:7"/> year Married, that died the ſame day of a few, hours illneſs, having the laſt night night of her life gone to bed as well i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> health as ever, as her Husband told me.</p>
+            </div>
+            <div n="4" type="section">
+               <head>
+                  <hi>SECTION IV.</hi> Motives to prepare for Death.</head>
+               <p>CHRIST ſaith, Mat. 24.42, 44. <hi>Watch, for ye know not what hour the Lord doth come,</hi> therefore be ye alſo ready: Though there were no more but this one command and advertiſement from our Lords own mouth, it is enough to make us think it our great concern to prepare for death, and to alarm us agree<g ref="char:EOLhyphen"/>ably to ply this great work. Beſides the motives we have al<g ref="char:EOLhyphen"/>ready touched at, <hi>viz</hi> That death is cer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain, and the time and manner therof uncertain, we will offer a few more conſidera<g ref="char:EOLhyphen"/>tions, to perſwade and excite you to do what ye can to be in a prepared eſtate for approaching death.</p>
+               <p>We get many fair warnings, and ſpeaking memorials, that we muſt die. Are not ſickneſs raging, and deaths frequent through the Land? At this day, 'tis obſerved, there are far more Burials than Births; few Families have eſcaped, where<g ref="char:EOLhyphen"/>in there has not been either ſick, or dead. When we go to Church or Mercat, do we not miſs many of our Friends, Neigh<g ref="char:EOLhyphen"/>bours, and Acquaintances, that a few days or weeks before, were wont to attend theſe publick occaſions, as we do, and now where are they? They are gone, and their places of converſe or reſidence knows them no more. What is the language of this, but <hi>hodie mini cras tibi?</hi> What's my fate to day, may be thine to morrow. Again, we muſt die but once, we have need to ſee that we do it well: We ſay and do many things amiſs in the ordinary courſe of our life, which we may have leiſure and helps to amend and rectifie, but not to die well, can ne<g ref="char:EOLhyphen"/>ver be helped, <hi>now or never</hi> is the time of preparing for death, for <hi>as the tree falls ſo will it ly;</hi> if thou unhappily happen to die in a graceleſs unconverted eſtate, without God, and without Chriſt, thou dies alſo without hope, for there is no hope in the grave whither we go; there is no more Preaching Faith
+<pb n="13" facs="tcp:175576:7"/> and Repentance after time, no more mercy to be expected of God, no more mediation by Chriſt, no more gracious mo<g ref="char:EOLhyphen"/>tions of the Holy Spirit; as life leaves you, death will find you, and as death finds you, ſo will eternity treat you; there<g ref="char:EOLhyphen"/>fore it is the living, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he living muſt lay it to heart, and that while they are in the land of hope; for if ye die unprepared, your hopes are afterwards out off for ever, <hi>Eccl.</hi> 9.5, 10. The living know that they ſhall die but the dead know not any thing. <hi>Whatſoever thy hand findeth to do, do it with thy might, for there is no work nor device, nor knowledge, nor wiſdom in the grave whither thou goeſt.</hi> Iſai. 38.18. <hi>The grave cannot praiſe thee, death cannot celebrate thee, they that go down to the pit can<g ref="char:EOLhyphen"/>not hope for thy truth.</hi> Remember alſo that when the Harbin<g ref="char:EOLhyphen"/>gers of Death come, though thou ſhouldeſt pray him with ſtrong cryes and tears to ſpare thee yet a little while, that thou mayeſt be better prepared ere thou go hence to be no more: None of thy Reaſons or Rhetorick will prevail to reprieve thee one moment his ſtrict orders he muſt put to preſent peremp<g ref="char:EOLhyphen"/>tory execution; one breathings reſpite I ſay thou needeſt not exp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct: For as it is, <hi>Job</hi> 14.5. <hi>Thy days are determined, the number of thy months are with God, he hath appointed thy bou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ds that thou canſt not paſs:</hi> it is impoſſible either to anticipate or tranſgreſs the ſet and definite time and period of Gods unal<g ref="char:EOLhyphen"/>terable decree and appointment. And is there not a great deal of ſtrong reaſon ye ſhould prepare for death, even more than a parity, with reſpect to other cares and con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erns, this being the care of cares. If ye have Debts or Accounts to give in to any that owes you, will you not take time to Ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ract them, and to fit and ſet them in order: Now have you not Counts to clear with God? Are ye not deep in his Debt? What innumerable debts of ſins, and debts of mercies, and of time and other Talents, are you in Arrears of to God? And have you not juſt ground to expect that he will call you to an account? <hi>Matth.</hi> 25.19. <hi>After a long time the Lord of theſe ſer<g ref="char:EOLhyphen"/>vants came and reckoned with them.</hi> If you are to take a voy<g ref="char:EOLhyphen"/>age, or to go a journey, are ye not concerned to provide for them? And have ye not a far journey and dangerous voyage to go, that are to land at times end, in the aſtoniſhing Abyſs of Eternity, and perhaps knows not whether in Heaven or Hell? If you are to come into the preſence of a King of Clay,
+<pb n="14" facs="tcp:175576:8"/> will ye not as <hi>Joſeph, Gen.</hi> 41.14. put your ſelves in your beſt prepared dreſs you can, and are ye to appear before the King of kings, and will you not change your dirty raggs, and put on your be<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ornaments? If to engage in Battel, will you not arm and prepare for your own ſafety? And when to engage in the laſt Battel of the Soul at death, will ye adventure naked and Armleſs? Have not too many careleſs ſouls done ſo? who when to die have been filled with ſorrowful complaints, and horrible out-cryes, O time, time! Had I time again, how bu<g ref="char:EOLhyphen"/>ſie and careful would I be, to improve all my hours for better purpoſes than I have done, ſpecially in preparation for my laſt hour? As on the contrary, who ever repented their prepa<g ref="char:EOLhyphen"/>ring for death? None ſure ever had reaſon, for theſe who are prepared, and in caſe to die well, if God ſpare them, are alſo in caſe to live well, and prepared the better to improve eve<g ref="char:EOLhyphen"/>ry lot of life, it brings not death the ſooner that we much mind it, and prepare for it. Yea, and not only may the wicked be filled with horror, when to die unprepared, but even many godly, who have died under a cloud, have lamented bitterly, their not being actually ſo prepared, as they ought to have been; for they have found Satan then ſet moſt furiouſly upon them, his time being ſhort, and they being ſhort of ſome of their proviſions againſt his aſſaults: But though they may not be actually prepared, ſo much as they ſhould be, yet being habitually prepared, by their gracious and ſalvifick tranſlati<g ref="char:EOLhyphen"/>on from death to life, in their Effectual C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing and Converſi<g ref="char:EOLhyphen"/>on, they need not ſo much be in bondage for fear of death, as thoſe who are nothing prepared, being in the gall of bitter<g ref="char:EOLhyphen"/>neſs, and bond of iniquity. It is indeed a terrible thing for ſuch, to be ſurprized unprepared, for they not being meet for the inheritance of the Saints in light, when they enter the gates of death, the gates of Heaven will be ſhut againſt them for ever, and the gates of hell opened, thereby to enter into everlaſting torments prepared for them. But ere I paſs from this Head, I would have no holy to think, that when I am thus preſſing preparation, it is only upon the ſickly, or dying; no, no, I exhort you who are in moſt eſtabliſhed like health and vigor, ſo to number your days, as to apply your hearts to this piece of true wiſdom; for it will take our freſheſt health, our ſtrongeſt w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts, our outmoſt vigour, as the fitteſt ſeaſon for
+<pb n="15" facs="tcp:175576:8"/> this ſo great and important work; then ſure ye will have the leſs to do, when ſickneſſes or pains ſeize upon you, and, many who have reſolved, and delayed to do this work, till ſick, or to die, have found that either God in his juſtice hath taken heart and hand from them, or that their diſeaſes and maladies have ſo diſordered and diſtempered both body and mind, that for their hearts they could not get their hearts ſerious or ſteddie, in minding their ſouls eternity matters; and who knows if they ſhall get a warning of ſickneſs before death, for in the twink<g ref="char:EOLhyphen"/>ling of an eye they may be ſnatched out of time into eternity, (as you have been hearing of many tragical inſtances) not getting ſo much time allowed them, as to cry for Gods mer<g ref="char:EOLhyphen"/>cy. From all which conſiderations we earneſtly obteſt you betimes to prepare for Death, Judgment, and Eternity.</p>
+            </div>
+            <div n="5" type="section">
+               <head>
+                  <hi>SECTION V.</hi> Some things to be done in preparation for Death.</head>
+               <p>SAys <hi>John,</hi> Revel. 14.13. <hi>Bleſsed are the dead, which die in the Lord,</hi> whereby we may underſtand the thrice bleſsful eſtate of them who die in Union and Communion with the Lord, in the Faith of the Lord, in peace and reconciliation with the Lord, in hope of being with the Lord for ever, and who are prepared ſo to be: Now for your help herein, I will ſuggeſt a few neceſſary things proper to be practized by you.</p>
+               <p>Frequently meditate on death and your frail ſtate of life, let <hi>Memento Mori</hi> be often in your thoughts: For to contem<g ref="char:EOLhyphen"/>plate of Mortality and Eternity, may diſpoſe and frame your <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>arts to prepare for death and eternity. Take ſome ſhare of thy time ſeriouſly to conſider thy ways, reflect on all the paſſages and periods of thy paſt courſe of life, as much as thou can remember, ſteep thy thoughts in the deep conſideration of thy great and many ſins, till thou win ſenſibly to know and ſee what an evil thing it is, and bitter, to have ſinned againſt God; and when thy heart is affected with a view of all thine iniquities, confeſs them fully and particularly before the Lord, and that in all their aggravating circumſtances, accuſe thy ſelf
+<pb n="16" facs="tcp:175576:9"/> as worthy of death, wrath, and damnation; repent, and pro<g ref="char:EOLhyphen"/>ſtrate thy ſelf in the moſt humble manner, then, renouncing all thy own righteouſneſs as unclean, lay hold on the righte<g ref="char:EOLhyphen"/>ouſneſs, merits, and mediation of Chriſt Jeſus by faith, be<g ref="char:EOLhyphen"/>lieving he is both able and willing to pardon all thine iniqui<g ref="char:EOLhyphen"/>ties, and to ſave thee from the wrath that is to come. Cove<g ref="char:EOLhyphen"/>nant thy ſelf away to the Lord, avouching thy ſelf ſincerely and explicitely to be his Subject and Servant, and avouching with alike plainneſs and integrity, his being thy alone Lord and Re<g ref="char:EOLhyphen"/>deemer; and having thus entered into perſonal Covenant with him, ſee thou keep thy Covenant inviolably, alſo renew it frequently, and endeavour to carry and walk as becomes a Chri<g ref="char:EOLhyphen"/>ſtian in Covenant with Chriſt: Study to lead a holy life, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> only free of notour vices, but adorned with examplar Chri<g ref="char:EOLhyphen"/>ſtian virtues, ſuch as good works of Mercy, Charity and Pie<g ref="char:EOLhyphen"/>ty: Have on thy Spiritual Armour always, and ſtand on th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Watch-Towers that thou mayſt be fenced and ſhielded again<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the fiery darts of Satan, the ſnares and temptations of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> world, and the rebellious inordinat affections of thy unmorti<g ref="char:EOLunhyphen"/>fied fleſh. Likewiſe keep up thy daily courſe of religious d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ties, devoutly praying to God ilk morning and evening <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> leaſt, frequently read the Scriptures, and that with reverenc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> attention, and diligence, praiſe God thankfully for all th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mercies in thy lot; let thy converſation be in Heaven, by ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ritual-mindedneſs, and fervent meditation on Heavenly an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpiritual things: Neglect no opportunities when in health, the publick Ordinances of God, with the comfortable Congr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>gations of his people; improve them for daily increaſe knowledge, growth and exerciſe of grace, up-building and ſtabliſhment in the moſt holy Faith: Keep thy mind free fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> earthly cares, and diſtracting thoughts, anent the things this vain vexatious world: abandon alſo all inclinations malice, revenge, reproach, or any way impairing or injur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy Neighbours good Name, Perſon, or Eſtate: and when ther through the ſenſible infirmities o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> old age, or threatn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſymptomes of ſickneſs, or preſent dangerous diſeaſes, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> art under apprehenſions of approaching death, ſee thou thy houſe in order, both as to the inward conſtitution of ſpirit, and as to the outward diſpoſal and ſettlement of
+<pb n="17" facs="tcp:175576:9" rendition="simple:additions"/> secualr Intereſts and Affairs: And in the laſt place, fenc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and fortifie againſt the fears and terrors of death, which leads to the laſt thing I ſhall offer.</p>
+            </div>
+            <div n="6" type="section">
+               <head>
+                  <hi>SECTION VI.</hi> Antidotes againſt the fears of Death.</head>
+               <p>THat will be a ſweet and welcome word from the mouth of our Saviour, <hi>Matth.</hi> 25.34. <hi>Come ye bleſsed of my Father, inherit the kingdom prepared for you.</hi> O what riſques of death do many run, compaſſing Sea and Land, without fear, without fainting, that they may gain ſome ſmall moyetie, or a few crumbs or this periſhing earth? and yet it how little pains are we for the inheritance of an everlaſting Kingdom; yea ſome are ſo Epicuriſh, or Turkiſh, that they would even, quite their part and hopes of it, if but freed from death, and ſecured in a perpetuated poſſeſſion of earthly pleaſures and riches: It is ſmall wonder that ſuch fear their loſs of this life, who have not the proſpect of another after it: But O Believ<g ref="char:EOLhyphen"/>er, why doſt thou fear death? whereof if thou hadſt a right notion, there is nothing in it ſhould be formidable to thee: The valley and ſhadow of death is a dark, &amp; irkſome paſſage, to thoſe who go through it ſolitary and alone; but Chriſt hath gone this way to ſanctifie it to thee, he will be with thee in every ſtep, he will not not leave thee. This way is ſtrawed with Serpents and Scorpions to the wicked, which will ſtill be ſtinging and tormenting them, but Chriſt hath taken the ſting of death for thee, 1. <hi>Cor.</hi> 15.55, 57. Art thou not in union with Chriſt? yea, ſuch a ſtrict and firm union, that neither ſin nor Satan can break, nor death diſſolve, <hi>Matth.</hi> 22.32. In the vertue whereof, all Believers, the myſtick members of Chriſt that glorious Head, ſhall at the laſt day be raiſed unto glory and happineſs. I ſay indeed the terrors and torments of death are an earneſt to the wicked, of thoſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>effible miſeries that ſhall follow thereafter: but death will free thee from ſin
+<pb n="18" facs="tcp:175576:10"/> and miſery, from all temptations to ſin, and perils of ſorrow and make thee for ever triumph over ſin, Satan, Hell, and Death.</p>
+               <p>O Believer! Haſt thou not often been filled with many wea<g ref="char:EOLhyphen"/>ry complaints in thy life? Death will make them all to ceaſe: Hath not thy life been ſometimes imbittered with exquiſit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pain or heavy ſickneſs? Death will relieve thee of thoſe bur<g ref="char:EOLhyphen"/>dens. Haſt thou not been in frequent tormentful fears, of croſſes, loſſes, poverty, or diſgrace, and other infelicities Common to mankind? It is death that thou ſo much fears, will diſſolve all theſe fears for ever. Haſt thou not often ſighed and ſorrowed over thy ill plaguie heart? Haſt thou not often cryed out, alas, my hard, my vain, my carnal, my unclean and luſtful, my deceitful and perverſe untractable heart! Haſt thou not alſo often cryed out, <hi>O wretched man that I am, who ſhall deliver me from this body of ſin and death?</hi> O Believer, re<g ref="char:EOLhyphen"/>joice in hope, for e're thy body of clay be laid into duſt, death will be the death of thy body of ſin, the old man will be fell'd dead with deaths laſt ſtroak, thy corruptions and infir<g ref="char:EOLhyphen"/>mities ſhall never any more be matter of thy grievance or complaint. And as death opens the doors of the Lake, to let in the workers of iniquity, ſo it will be to thee, O Believer, an in-let to glory, reſt and happineſs; thou but dies, that thou mayeſt live; thou but leaves and flits this ſinful and cumberſome Tabernacle of Clay, that thou mayeſt go to the glorious Manſion above, not made with hands, but eternal in the Heavens, and who but ſhould be content with ſuch a flit<g ref="char:EOLhyphen"/>ting? We were telling before, that Chriſt will be ready to welcome thee to the fruition of an everlaſting Kingdom, and to ſay ſo, thy deaths day will be thy Coronation day; for by death thou ſhall be immediatly waſted to glory: What ſhould we ſay more? for eye hath not ſeen, nor ear heard, neither hath it entered into the heart of man to conceive, what the believer is to enjoy after death.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
